@@ -28,7 +28,7 @@ Includes reimplementations of:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/libft.git
+git clone https://github.com/milea-1001/libft.git
 cd libft
 ```
 
